@@ -1,7 +1,7 @@
 #! /bin/bash
 
 
-DOCKER_REG=myregistry.com
+DOCKER_REG=192.168.199.13
 DOCKER_USR=admin
 DOCKER_PSW=password
 DOCKER_PUSH=“false”
